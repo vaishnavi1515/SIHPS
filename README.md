@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01-12-2024
+## Register Number:24900560
+## Name:Vaishnavi V 
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,27 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+The Alumni Association platform aims to provide an interactive, user-friendly, and feature-rich environment that connects alumni, supports their professional growth, facilitates donations, tracks success stories, and enables event organization. The platform will consist of both web and mobile applications, ensuring accessibility and engagement for alumni across devices. The platform should also have secure and scalable mechanisms for all operations, including user registrations, donations, job postings, and networking opportunities
 
 ## Proposed Solution / Architecture Diagram
 
+![Architecture diagram](https://github.com/user-attachments/assets/16c5a9da-b3c3-46b2-8a14-d7b29e5c5f14)
 
 ## Use Cases
 
+![use cases](https://github.com/user-attachments/assets/1a59ed6d-a405-462a-925a-1c244f611103)
 
 ## Technology Stack
-
+```
+Framework: Flutter or React Native (for cross-platform development)
+Authentication: Firebase Authentication or OAuth 2.0
+```
 
 ## Dependencies
+```
+Backend:
+Node.js/Express or Django (API layer).
+Passport.js or Firebase for authentication.
+Sequelize or TypeORM for SQL database ORM (if using SQL).
 
+```
